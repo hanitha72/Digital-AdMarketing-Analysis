@@ -6,5 +6,5 @@ Segregated the top perform keywords that is text of ad and top performing Image 
 
 **The results are high**
 
-**CTR is high
-**Cost per result is low
+*CTR is high
+*Cost per result is low
